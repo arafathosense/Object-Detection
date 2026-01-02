@@ -55,16 +55,6 @@ python main.py
 4. When contact is detected, the object is flagged as **CONTAMINATED**
 5. Contaminated objects are highlighted in **RED**
 
----
-
-## 📁 Project Structure
-
-```
-├── main.py            # Main detection and tracking script
-├── requirements.txt   # Python dependencies
-├── .gitignore         # Excludes auto-downloaded model files
-└── README.md          # Project documentation
-```
 
 
 ## 📌 Notes
